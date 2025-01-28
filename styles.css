@@ -1,0 +1,94 @@
+/* styles.css */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #004080;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.profile-image {
+    margin-bottom: 15px;
+}
+
+.profile-image img {
+    width: 200px; /* Adjust as needed */
+    height: auto;
+    border-radius: 50%; /* Circular image */
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #004080;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.skill {
+    margin-bottom: 10px;
+}
+
+.progress-bar {
+    background-color: #e0e0e0;
+    border-radius: 5px;
+}
+
+.progress {
+    height: 10px;
+    background-color: #004080;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form input, form textarea {
+    margin-bottom: 10px;
+}
+
+.download-button {
+    display: inline-block;
+    background-color: #004080;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+.download-button:hover {
+     background-color: #003366; 
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+   nav ul li {
+       display:block; 
+       margin-bottom: 10px; 
+   }
+}
