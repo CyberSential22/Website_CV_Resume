@@ -21,13 +21,13 @@ Welcome to my personal website CV! This repository contains the source code for 
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/CyberSential22/Website_CV_Resume)
 2. Navigate to the project directory:
    cd your-repo-name
 3. Open the `index.html` file in your web browser to view the website.
 
 ## Usage
-You can view the live version of my website CV at [your GitHub Pages link](https://cybersential22.github.io/website_cv_resume).
+You can view the live version of my website CV at [your GitHub Pages link](https://github.com/CyberSential22/Website_CV_Resume).
 
 Feel free to explore the code and modify it as needed!
 
