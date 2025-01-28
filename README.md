@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 3. Open the `index.html` file in your web browser to view the website.
 
 ## Usage
-You can view the live version of my website CV at [your GitHub Pages link](https://yourusername.github.io/your-repo-name).
+You can view the live version of my website CV at [your GitHub Pages link](https://cybersential22.github.io/website_cv_resume).
 
 Feel free to explore the code and modify it as needed!
 
