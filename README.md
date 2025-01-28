@@ -14,10 +14,8 @@ Welcome to my personal website CV! This repository contains the source code for 
 - Easy to navigate with a clean and modern layout.
 
 ## Technologies Used
-- HTML5
-- CSS3
-- JavaScript (if applicable)
-- Any frameworks or libraries you used (e.g., Bootstrap, jQuery)
+- HTML
+- CSS
 
 ## Installation
 To run this project locally, follow these steps:
@@ -44,4 +42,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Thank you for visiting my website CV! If you have any questions or feedback, feel free to reach out.
-
