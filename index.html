@@ -76,13 +76,15 @@
 
     <section id="contact">
         <h3>Contact Me</h3>
-        <form action="#" method="post">
+        <form action="https://api.web3forms.com/submit" method="POST">
+            <input type="hidden" name="access_key" value="7f9dfaf1-5d40-4eb7-8fba-c339bf196004">
             <label for="name">Name:</label><br/>
             <input type="text" id="name" name="name" required><br/>
             <label for="email">Email:</label><br/>
             <input type="email" id="email" name="email" required><br/>
             <label for="message">Message:</label><br/>
             <textarea id="message" name="message" required></textarea><br/>
+            <input type="hidden" name="redirect" value="https://web3forms.com/success">
             <button type="submit">Send Message</button>
         </form>
 
