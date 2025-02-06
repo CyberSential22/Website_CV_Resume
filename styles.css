@@ -71,6 +71,7 @@ form {
 
 form input, form textarea {
     margin-bottom: 10px;
+    padding: 7px;
 }
 
 .download-button {
